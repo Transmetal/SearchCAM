@@ -1,3 +1,4 @@
 requests
 BeautifulSoup
 colorama
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
